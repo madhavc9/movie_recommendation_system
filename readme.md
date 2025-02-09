@@ -45,11 +45,11 @@ Setup Instructions
 		• Add your API key to the app.py file in the fetch_poster function.
 
 	4. Run the Streamlit Application:
-    		streamlit run app.py
+    	streamlit run app.py
 
     5. Using the Application:
-	• Open your browser and navigate to the local URL provided by Streamlit.
-	• Select a movie from the dropdown menu to get personalized movie recommendations.
+		• Open your browser and navigate to the local URL provided by Streamlit.
+		• Select a movie from the dropdown menu to get personalized movie recommendations.
 
 How It Works
 
