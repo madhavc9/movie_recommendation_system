@@ -27,30 +27,29 @@ Ensure you have the following installed:
 Setup Instructions
 
 	1. Clone the Repository:
-
-    git clone https://github.com/madhavc9/movie-recommendation-system.git
-    cd movie-recommendation-system
+  		  git clone https://github.com/madhavc9/movie-recommendation-system.git
+  		  cd movie-recommendation-system
 
 	2. Install Dependencies:
-    Install the necessary Python libraries using:
-    pip install -r requirements.txt
+  		  Install the necessary Python libraries using:
+  		  pip install -r requirements.txt
 
-    Note: The requirements.txt file should include the following libraries:
-	• streamlit
-	• pandas
-	• scikit-learn
-	• requests
+   	 Note: The requirements.txt file should include the following libraries:
+		• streamlit
+		• pandas
+		• scikit-learn
+		• requests
 
 	3. Obtain TMDb API Key:
-	• Sign up on TMDb and obtain an API key.
-	• Add your API key to the app.py file in the fetch_poster function.
+		• Sign up on TMDb and obtain an API key.
+		• Add your API key to the app.py file in the fetch_poster function.
 
 	4. Run the Streamlit Application:
-    streamlit run app.py
+    		streamlit run app.py
 
     	5. Using the Application:
-	• Open your browser and navigate to the local URL provided by Streamlit.
-	• Select a movie from the dropdown menu to get personalized movie recommendations.
+		• Open your browser and navigate to the local URL provided by Streamlit.
+		• Select a movie from the dropdown menu to get personalized movie recommendations.
 
 How It Works
 
