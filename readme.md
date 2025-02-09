@@ -91,6 +91,8 @@ Acknowledgments
 		• Scikit-Learn for machine learning utilities.
 		• Streamlit for creating a simple and powerful UI.
 <hr>
+<div align="center">
 Enjoy discovering your next favorite movie! 🎥
+</div>
 
 
