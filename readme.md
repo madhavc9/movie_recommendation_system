@@ -34,7 +34,7 @@ Setup Instructions
   		  Install the necessary Python libraries using:
   		  pip install -r requirements.txt
 
-   	 Note: The requirements.txt file should include the following libraries:
+   		  Note: The requirements.txt file should include the following libraries:
 		• streamlit
 		• pandas
 		• scikit-learn
@@ -47,9 +47,9 @@ Setup Instructions
 	4. Run the Streamlit Application:
     		streamlit run app.py
 
-    	5. Using the Application:
-		• Open your browser and navigate to the local URL provided by Streamlit.
-		• Select a movie from the dropdown menu to get personalized movie recommendations.
+    5. Using the Application:
+	• Open your browser and navigate to the local URL provided by Streamlit.
+	• Select a movie from the dropdown menu to get personalized movie recommendations.
 
 How It Works
 
