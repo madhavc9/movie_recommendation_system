@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 	• Python 3.8 or higher
 	• pip (Python package manager)
-
+<hr>
 Setup Instructions
 
 	1. Clone the Repository:
