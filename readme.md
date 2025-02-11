@@ -4,9 +4,9 @@
   <img src="/MRS_logo.png" alt="Movie Recommendation Logo" width="600">
   <p align="center">
     <br />
-    <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a>
+    <a href="https://drive.google.com/file/d/15EqioqNxrb90jf70SSsfNXDwz37_o3wj/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a>
     <br />
-    <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a>
+    <a href="https://drive.google.com/file/d/1GlUXc6Hzm5zCzHawjl8RtxAPqNpRqVwn/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a>
     <br />
   </p>
 </div>
